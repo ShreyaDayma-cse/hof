@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hof/static/css/main.97bf5a18.css",
+    "main.js": "/hof/static/js/main.d64a402a.js",
+    "static/js/787.15c58ddc.chunk.js": "/hof/static/js/787.15c58ddc.chunk.js",
+    "index.html": "/hof/index.html",
+    "main.97bf5a18.css.map": "/hof/static/css/main.97bf5a18.css.map",
+    "main.d64a402a.js.map": "/hof/static/js/main.d64a402a.js.map",
+    "787.15c58ddc.chunk.js.map": "/hof/static/js/787.15c58ddc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97bf5a18.css",
+    "static/js/main.d64a402a.js"
+  ]
+}
